@@ -1,5 +1,4 @@
 from math import *
-import math
 
 a = int(input("Enter an integer number: "))
 
