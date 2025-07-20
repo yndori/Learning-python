@@ -12,18 +12,3 @@ while a > 0 :
     print(f"The mean grade is : {mean_grades}")
     print(f"{highest_grades} is the highest grade in this list.")
     print(f"{lowest_grades} is the lowest grade in this list.")
-
-
-
-
-
-
-
-#After we will calculate the highest grade
-
-
-
-
-#Finally we will calculate the lowest grade
-
-
