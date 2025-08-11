@@ -8,3 +8,11 @@ def triangle():
     forward(100)
 
 triangle()
+
+color("orange")
+triangle()
+
+color("green")
+triangle()
+
+exitonclick()
