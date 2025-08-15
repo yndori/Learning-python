@@ -1,6 +1,6 @@
 from turtle import *
 def lineChar(n,Char):
-    """This function return n times the string"""
+    """This function returns n times the string"""
     result = ""
     i = 0
     while i < n:
