@@ -3,7 +3,10 @@ def maximum(n1,n2,n3):
     result = max(n1,n2,n3)
     return result
 
+print(maximum.__doc__)
+
 n1 = int(input("Enter n1 : "))
 n2 = int(input("Enter n2 : "))
 n3 = int(input("Enter n3 : "))
+
 print(f"The largest number is {maximum(n1,n2,n3)}")
